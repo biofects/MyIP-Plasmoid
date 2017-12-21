@@ -1,0 +1,21 @@
+[Desktop Entry]
+Name=MyIP
+Comment=Display your IP and ISP
+Icon=kde
+ 
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-DefaultSize=280,100
+ 
+X-KDE-PluginInfo-Author=Lee Thompson
+X-KDE-PluginInfo-Email=sr.mysql.dba@gmail.com
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=Network
+X-KDE-PluginInfo-Name=MyIP
+X-KDE-PluginInfo-Version=1.0
+ 
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-ServiceTypes=Plasma/Applet
+Type=Service 
